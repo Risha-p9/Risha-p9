@@ -21,7 +21,7 @@ jobs:
         uses: jasineri/gitartwork@v1
         with:
           user_name: risha-p9
-          text: Rishp-3
+          text: RISHABH
 
       - name: Commit SVG
         uses: stefanzweifel/git-auto-commit-action@v5
