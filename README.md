@@ -35,6 +35,8 @@
 
 ---
 
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Risha-p9&theme=github-dark)
+
 ## 🧠 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risha-p9&layout=compact&theme=github_dark" />
