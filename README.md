@@ -19,7 +19,4 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Risha-p9&layout=compact&theme=github_dark)
 
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Risha-p9&theme=github-dark)
-
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Risha-p9&theme=github-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Risha-p9&show_icons=true&theme=github_dark)
