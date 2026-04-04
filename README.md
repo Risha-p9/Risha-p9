@@ -50,10 +50,6 @@
 
 ---
 
-## 🌆 3D Contribution (Screenshot)
-> 🔥 Real 3D graph ke liye skyline.github.com use karke screenshot add karo
-
----
 
 ## ⚡ Fun Fact
 - 💡 I love building cool projects
