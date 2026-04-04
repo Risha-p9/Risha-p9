@@ -65,8 +65,6 @@
 <h3 align="center">🔥 Keep Coding & Growing 🚀</h3>
 
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Risha-p9&theme=github-dark)
-
 
 
 ## 🌌 3D Contribution Graph
