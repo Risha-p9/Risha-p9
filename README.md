@@ -72,11 +72,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rishp-3&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Rishp-3&theme=darkhub&no-frame=true&row=1&column=4&margin-w=10)
 
 ---
 
