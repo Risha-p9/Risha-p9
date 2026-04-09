@@ -74,3 +74,28 @@
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
+
+<hr>
+
+<h1 align="center">👨‍💻 Rishabh.exe</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Initializing...;Access+Granted+✔;Frontend+Developer;React+Specialist;System+Hacked+😈" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" />
+</p>
+
+---
+
+## 🟢 SYSTEM STATUS
+```bash
+> Name: Rishabh
+> Role: Frontend Developer
+> Status: Online 🟢
+> Learning: Backend (Node.js, Express)
+> Focus: React + Modern UI
+> Mission: Build Clean & Powerful Web Apps
