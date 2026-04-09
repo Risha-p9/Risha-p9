@@ -5,7 +5,7 @@
 
 ## 🌐 Connect with me
 <p align="left">
-<a href="https://github.com/Risha-p9" target="blank">GitHub</a>
+<a href="https://github.com/Rishp-3" target="blank">GitHub</a>
 </p>
 
 ---
@@ -19,11 +19,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Risha-p9&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishp-3&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Risha-p9&theme=github-dark" />
+  <img src="https://streak-stats.demolab.com/?user=Rishp-3&theme=github-dark" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 ## 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risha-p9&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&theme=github_dark" />
 </p>
 
 ---
@@ -65,4 +65,4 @@
 
 ## 🌌 3D Contribution Graph
 
-![3D Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Risha-p9&theme=github_dark)
+![3D Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishp-3&theme=github_dark)
