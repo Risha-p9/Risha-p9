@@ -1,71 +1,60 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
-<h3 align="center">🚀 Aspiring Developer | Learning & Building</h3>
-<p align="center">
-  <img src="https://github.com/Risha-p9/Risha-p9/blob/main/gitartwork.svg" />
-</p>
+<h3 align="center">🚀 Frontend Developer | Building Modern Web Apps</h3>
+
+---
+
+## 💫 About Me
+- 🚀 Passionate Frontend Developer  
+- 💻 Skilled in **HTML, CSS, JavaScript, React**  
+- 🌱 Currently learning **Backend (Node.js, Express)**  
+- 🤝 Open to **collaborations & open source**  
+- 💬 Ask me about **Web Development**  
+- ⚡ Fun fact: *I turn coffee into code ☕💻*
 
 ---
 
 ## 🌐 Connect with me
-<p align="left">
-<a href="https://github.com/Rishp-3" target="blank">GitHub</a>
+<p align="center">
+  <a href="https://linkedin.com/in/rishp3">LinkedIn</a> •
+  <a href="https://github.com/Risha-p9">GitHub</a> •
+  <a href="mailto:rp9250625@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧠 Languages & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+## 🧠 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,bootstrap,tailwind,git,github,java,c" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishp-3&show_icons=true&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com/?user=Rishp-3&theme=github-dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rishp-3&theme=github-dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishp-3&theme=github_dark" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishp-3&theme=github-dark" />
 </p>
 
 ---
 
-
-## 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&theme=github_dark" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Risha-p9/Risha-p9/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Rishp-3/Rishp-3/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-
-## ⚡ Fun Fact
-- 💡 I love building cool projects
-- 🚀 Always learning new tech
-- 🎯 Goal: Become a pro developer
-
----
-
-<h3 align="center">🔥 Keep Coding & Growing 🚀</h3>
-
-
-
-
-## 🌌 3D Contribution Graph
-
-![3D Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishp-3&theme=github_dark)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishp-3&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
