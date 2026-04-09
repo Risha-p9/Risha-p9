@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center">🚀 Aspiring Developer | Learning & Building</h3>
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/Risha-p9/Risha-p9/blob/main/gitartwork.svg" />
 </p>
 
 ---
