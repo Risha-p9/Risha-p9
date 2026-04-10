@@ -31,7 +31,7 @@
 ║                                           ║
 ║  ► whoami      Rishabh                    ║
 ║  ► role        Frontend Developer         ║
-║  ► base        India 🇮🇳                  ║
+║  ► base        India 🇮🇳                   ║
 ║  ► status      [████████████] ONLINE      ║
 ║                                           ║
 ╠═══════════════════════════════════════════╣
@@ -45,7 +45,7 @@
 ║                                           ║
 ║  ► mission     Hacking the backend 🔓     ║
 ║  ► collab      Open to everything 🤝      ║
-║  ► fun_fact    ☕ → </code> 💻            ║
+║  ► fun_fact    ☕ → </code> 💻           ║
 ║                                           ║
 ╚═══════════════════════════════════════════╝
 ```
@@ -242,10 +242,10 @@
 
 ```bash
 ╔══════════════════════════════════════════════════════════════╗
-║             RISHABH OS v2.0 — BOOT SEQUENCE                 ║
+║             RISHABH OS v2.0 — BOOT SEQUENCE                  ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  ┌──(rishabh㉿matrix)-[~]                                   ║
+║  ┌──(rishabh㉿matrix)-[~]                                    ║
 ║  └─$ ./boot_system.sh                                        ║
 ║                                                              ║
 ║  [✔] Establishing GitHub connection .......... DONE          ║
@@ -254,14 +254,14 @@
 ║  [✔] Injecting Tailwind styles ............... DONE          ║
 ║  [✔] Spinning up Node.js server .............. DONE          ║
 ║  [✔] Syncing Express routes .................. DONE          ║
-║  [✔] Brewing coffee .......................... DONE ☕        ║
-║  [✔] Opening collaboration ports ............. DONE 🤝       ║
+║  [✔] Brewing coffee .......................... DONE ☕      ║
+║  [✔] Opening collaboration ports ............. DONE 🤝      ║
 ║                                                              ║
 ║  [████████████████████████████████████]  100%                ║
 ║                                                              ║
 ║  [+] All systems operational.                                ║
-║  [+] Welcome to my Matrix, visitor. 🟢                       ║
-║  [+] Let's build something legendary. 🚀                     ║
+║  [+] Welcome to my Matrix, visitor. 🟢                      ║
+║  [+] Let's build something legendary. 🚀                    ║
 ║                                                              ║
 ║  └─$ █                                                       ║
 ╚══════════════════════════════════════════════════════════════╝
