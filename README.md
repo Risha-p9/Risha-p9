@@ -43,8 +43,8 @@
 ║                                           ║
 ╠═══════════════════════════════════════════╣
 ║                                           ║
-║  ► mission     Hacking the backend 🔓     ║
-║  ► collab      Open to everything 🤝      ║
+║  ► mission     Hacking the backend 🔓    ║
+║  ► collab      Open to everything 🤝     ║
 ║  ► fun_fact    ☕ → </code> 💻           ║
 ║                                           ║
 ╚═══════════════════════════════════════════╝
