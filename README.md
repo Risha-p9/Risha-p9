@@ -1,292 +1,358 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,40:001a00,80:003B00,100:00FF41&height=220&section=header&text=RISHABH.EXE&fontSize=70&fontColor=00FF41&animation=fadeIn&fontAlignY=40&desc=◈%20Frontend%20Developer%20◈%20React%20Specialist%20◈%20UI%20Architect%20◈&descAlignY=62&descColor=00CC33&descSize=16&stroke=00FF41&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001400,100:00FF41&height=260&section=header&text=RISHABH.EXE&fontSize=72&fontColor=00FF41&animation=fadeIn&fontAlignY=42&desc=⚡%20Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20UI%20Architect%20⚡&descAlignY=64&descColor=AAFFAA&descSize=18&stroke=00FF41&strokeWidth=1" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&multiline=false&width=750&lines=%E2%9A%A1+Booting+Rishabh.exe+...+%5BSUCCESS%5D;%24+whoami+%3A%3A+Rishabh+%7C+Frontend+Developer;%24+status+%3A%3A+%5B%E2%97%8F+ONLINE%5D+%7C+Available+for+Collabs;%24+stack+%3A%3A+React+%7C+Node.js+%7C+Tailwind+%7C+JS;%24+currently+%3A%3A+Cracking+the+Backend+Matrix;%24+mode+%3A%3A+%E2%98%95+Coffee+%E2%86%92+%3C%2Fcode%3E+%F0%9F%92%BB" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&width=720&lines=%3E+SYSTEM+BOOT...+%E2%9C%94+ALL+MODULES+ONLINE;%3E+whoami+%3A%3A+Rishabh+%7C+Frontend+Developer;%3E+specialization+%3A%3A+React+%2B+Responsive+UIs;%3E+current_mission+%3A%3A+Learning+Node.js+%26+Express;%3E+collaboration_mode+%3A%3A+%F0%9F%9F%A2+ACTIVE;%3E+fun_fact+%3A%3A+%E2%98%95+%E2%9E%9C+%3C%2Fcode%3E+%F0%9F%9A%80" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480"/>
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
-<br/>
+## ⚡ SYSTEM PROFILE
 
-<table align="center" border="0">
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
-```bash
-╔═══════════════════════════════════════════╗
-║         > SYSTEM PROFILE v2.0             ║
-╠═══════════════════════════════════════════╣
-║                                           ║
-║  ► whoami      Rishabh                    ║
-║  ► role        Frontend Developer         ║
-║  ► base        India 🇮🇳                   ║
-║  ► status      [████████████] ONLINE      ║
-║                                           ║
-╠═══════════════════════════════════════════╣
-║                                           ║
-║  ► frontend    React · JS · Tailwind      ║
-║  ► backend     Node.js · Express          ║
-║  ► styling     CSS · Bootstrap            ║
-║  ► tools       Git · GitHub · Netlify     ║
-║                                           ║
-╠═══════════════════════════════════════════╣
-║                                           ║
-║  ► mission     Hacking the backend 🔓    ║
-║  ► collab      Open to everything 🤝     ║
-║  ► fun_fact    ☕ → </code> 💻           ║
-║                                           ║
-╚═══════════════════════════════════════════╝
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                     ⚡  MATRIX  BOOT  ⚡                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   ┌─ IDENTITY ──────────────────────────────────────────────┐    ║
+║   │  👤  NAME       ──▶  Rishabh                            │   ║
+║   │  💼  ROLE       ──▶  Frontend Developer                 │   ║
+║   │  🌍  STATUS     ──▶  🟢 ONLINE & OPERATIONAL            │   ║
+║   └─────────────────────────────────────────────────────────┘    ║
+║                                                                  ║
+║   ┌─ MISSION ───────────────────────────────────────────────┐    ║
+║   │  🔥  PASSION    ──▶  Building clean, responsive UIs     │   ║
+║   │  🌱  LEARNING   ──▶  Node.js + Express (Backend)        │   ║
+║   │  🤝  OPEN TO    ──▶  Collaborations & Open Source       │   ║
+║   │  💬  ASK ME     ──▶  Web Dev · React · UI/UX            │   ║
+║   └─────────────────────────────────────────────────────────┘    ║
+║                                                                  ║
+║   ┌─ SYSTEM ────────────────────────────────────────────────┐    ║
+║   │  ⚡  FUN FACT   ──▶  ☕ Coffee  ──▶  </code> 🚀      │    ║
+║   │  🖥️  OS         ──▶  Arch Linux (btw)                  │   ║
+║   └─────────────────────────────────────────────────────────┘   ║
+║                                                                 ║
+║   ████████████████████████████████████  POWER: 100% 🟢          ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-<td width="45%" valign="top" align="center">
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb9-7b57-4b18-8f15-9b2e9e50d73b.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088406-8ab2-4b79-a1aa-a44dd4699857.gif" width="60"/>
+</div>
 
-</td>
-</tr>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+---
+
+## 🧑‍💻 ABOUT ME
+
+<div align="center">
+
+> *I'm a frontend developer who genuinely enjoys turning ideas into interfaces people love to use.*
+> React is my weapon of choice, Tailwind keeps me sane, and coffee keeps me alive. Currently on a journey into the backend with Node.js + Express — because full-stack feels like the final boss and I'm here for it. I believe great UI isn't just pretty pixels; it's empathy compiled into code.
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+---
+
+## 🚧 CURRENTLY BUILDING
+
+<div align="center">
+
+| 🔨 Project | 🛠️ Stack | 📊 Progress | 🎯 Goal |
+|:---:|:---:|:---:|:---:|
+| **Portfolio v2** | React + Tailwind + Framer Motion | `████████░░` 80% | Sleek personal site with project showcase |
+| **DevConnect** | React + Node.js + Express | `█████░░░░░` 50% | Platform for developers to collaborate |
+| **UI Component Library** | React + Tailwind CSS | `███░░░░░░░` 30% | Reusable, accessible component kit |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+---
+
+## 🌐 NETWORK LINKS
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishp3)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishp-3)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/rishi_3)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rishp_3)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/rishp3)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@rishp3)
+
+[![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Rishp-3)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32493179)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rishp-3)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/Rishp-3)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rp9250625@gmail.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+---
+
+## 🧠 TECH ARSENAL
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"/>
+
+</div>
+
+<br/>
+
+### ⚔️ Frontend Combat Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+### 🔧 Backend & Devops
+
+<div align="center">
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+</div>
+
+### 💡 Languages
+
+<div align="center">
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,git,github,c,java&theme=dark&perline=6"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+---
+
+## 🖥️ TERMINAL LOG
+
+<div align="center">
+
+```bash
+┌──(rishabh㉿matrix)-[~/portfolio]
+│
+├─$ whoami
+│   Rishabh · Frontend Developer · React Specialist
+│
+├─$ ./boot_system.sh
+│
+│   [*] Connecting to GitHub ─────────────── ✔ ESTABLISHED
+│   [*] Loading React engine ─────────────── ✔ RUNNING
+│   [*] Compiling UI components ──────────── ✔ READY
+│   [*] Injecting Tailwind styles ────────── ✔ APPLIED
+│   [*] Activating Express backend ───────── ⟳ LEARNING...
+│   [*] Brewing coffee ───────────────────── ✔ FULL ☕
+│   [*] Opening collaboration port ───────── ✔ ACTIVE 🤝
+│
+│   [████████████████████████████████] 100%
+│
+│   [+] STATUS: All systems operational. 🟢
+│   [+] MISSION: Build stunning UIs. Ship fast. Drink coffee.
+│   [+] Welcome to the Matrix, Rishabh.
+│
+└─$ _
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Rishp-3/portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishp-3&repo=portfolio&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rishp-3/react-projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishp-3&repo=react-projects&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Rishp-3/ui-components">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishp-3&repo=ui-components&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rishp-3/dev-connect">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishp-3&repo=dev-connect&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
+      </a>
+    </td>
+  </tr>
 </table>
 
-<br/>
+> 💡 **Note:** Replace the `repo=` values above with your actual repository names so the pin cards render correctly.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"/> &nbsp;CONNECT TO THE GRID
+## 📊 SYSTEM ANALYTICS
 
 <div align="center">
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/rishp3)
-[![GitHub](https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/Rishp-3)
-[![X](https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=X&logoColor=0D1117&labelColor=0D1117)](https://x.com/rishi_3)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/rishp_3)
-
-<br/>
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=0D1117)](https://youtube.com/@rishp3)
-[![CodePen](https://img.shields.io/badge/CodePen-00FF41?style=for-the-badge&logo=codepen&logoColor=0D1117&labelColor=0D1117)](https://codepen.io/Rishp-3)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0D1117)](https://stackoverflow.com/users/32493179)
-[![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=0D1117&labelColor=0D1117)](https://medium.com/@rishp-3)
-
-<br/>
-
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white&labelColor=0D1117)](https://reddit.com/user/Rishp-3)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=0D1117)](https://facebook.com/rishp.3)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:rp9250625@gmail.com)
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="340"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-</div>
-
----
-
-## 🧠 &nbsp;SKILLS.EXE — LOADING ARSENAL
-
-<div align="center">
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="480"/>
-<br/><br/>
-
-### ◈ &nbsp;Frontend Core&nbsp; ◈
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark&perline=6" />
-
-<br/><br/>
-
-### ◈ &nbsp;Backend & DevOps&nbsp; ◈
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,netlify,git,github&theme=dark&perline=5" />
-
-<br/><br/>
-
-### ◈ &nbsp;Languages&nbsp; ◈
-
-<img src="https://skillicons.dev/icons?i=c,java&theme=dark&perline=2" />
-
-</div>
-
----
-
-## 💻 &nbsp;TECH STACK — FULL LOADOUT
-
-<div align="center">
-
-**`[ FRONTEND ]`**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0D1117)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=0D1117)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<br/>
-
-**`[ BACKEND & DEPLOY ]`**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-00FF41?style=for-the-badge&logo=express&logoColor=0D1117)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-<br/>
-
-**`[ VERSION CONTROL ]`**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=0D1117)
-
-<br/>
-
-**`[ LANGUAGES ]`**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
+<img src="https://streak-stats.demolab.com/?user=Rishp-3&theme=matrix&hide_border=false&border=00FF41&background=0D1117&ring=00FF41&fire=FF6600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00CC33&dates=AAAAAA&stroke=00FF41" width="62%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-</div>
-
----
-
-## 📊 &nbsp;SYSTEM ANALYTICS — LIVE STATS
-
-<div align="center">
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Rishp-3&theme=matrix&hide_border=false&border=00FF41&background=0D1117&ring=00FF41&fire=FF6600&currStreakNum=00FF41&sideNums=FFFFFF&currStreakLabel=00CC33&sideLabels=00CC33&dates=555555&stroke=00FF41" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rishp-3&show_icons=true&hide_border=false&border_color=00FF41&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=CCCCCC&rank_icon=github&number_format=long&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rishp-3&show_icons=true&hide_border=false&border_color=00FF41&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" width="47%"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&hide_border=false&border_color=00FF41&bg_color=0D1117&title_color=00FF41&text_color=CCCCCC&langs_count=8" width="36%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&hide_border=false&border_color=00FF41&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" width="36%"/>
+</div>
 
-<br/><br/>
+<br/>
 
+### ⏱️ WAKATIME WEEKLY STATS
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rishp3&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&layout=compact&hide_border=false" width="60%"/>
+
+> 💡 **Setup WakaTime:** Create an account at [wakatime.com](https://wakatime.com) → install the IDE plugin → add your `WAKATIME_API_KEY` as a GitHub Actions secret → use [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) Action to auto-populate the section above.
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishp-3&theme=github_dark&border_color=00FF41" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishp-3&theme=github_dark&border_color=00FF41" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishp-3&theme=github_dark&border_color=00FF41" width="30%"/>
+</div>
+
+<br/>
+
+<div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishp-3&theme=github_dark" width="95%"/>
+</div>
+
+---
+
+## 📈 LIVE ACTIVITY GRAPH
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishp-3&bg_color=0D1117&color=00FF41&line=00FF41&point=FF6600&hide_border=false&border_color=00FF41&area=true&area_color=003B00&radius=6&custom_title=Rishabh's%20Contribution%20Graph" width="95%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+---
+
+## 🏆 ACHIEVEMENT TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rishp-3&theme=matrix&no-frame=false&row=1&column=6&margin-w=8&margin-h=8" width="96%"/>
 
 </div>
 
 ---
 
-## 📈 &nbsp;CONTRIBUTION SIGNAL
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishp-3&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=false&border_color=00FF41&area=true&area_color=001a00&title_color=00FF41" width="95%"/>
-
-</div>
-
----
-
-## 🏆 &nbsp;TROPHIES — ACHIEVEMENT LOG
-
-<div align="center">
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rishp-3&theme=matrix&no-frame=false&row=1&column=6&margin-w=10&margin-h=10" width="90%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-</div>
-
----
-
-## 🐍 &nbsp;CONTRIBUTION SNAKE
-
-<div align="center">
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rishp-3/Rishp-3/blob/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rishp-3/Rishp-3/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://github.com/Rishp-3/Rishp-3/blob/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+  <img alt="contribution snake animation" src="https://github.com/Rishp-3/Rishp-3/blob/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
----
-
-## 🖥️ &nbsp;TERMINAL LOG — BOOT SEQUENCE
-
-<div align="center">
-
-```bash
-╔══════════════════════════════════════════════════════════════╗
-║             RISHABH OS v2.0 — BOOT SEQUENCE                  ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  ┌──(rishabh㉿matrix)-[~]                                    ║
-║  └─$ ./boot_system.sh                                        ║
-║                                                              ║
-║  [✔] Establishing GitHub connection .......... DONE          ║
-║  [✔] Mounting React modules .................. DONE          ║
-║  [✔] Compiling JSX components ................ DONE          ║
-║  [✔] Injecting Tailwind styles ............... DONE          ║
-║  [✔] Spinning up Node.js server .............. DONE          ║
-║  [✔] Syncing Express routes .................. DONE          ║
-║  [✔] Brewing coffee .......................... DONE ☕      ║
-║  [✔] Opening collaboration ports ............. DONE 🤝      ║
-║                                                              ║
-║  [████████████████████████████████████]  100%                ║
-║                                                              ║
-║  [+] All systems operational.                                ║
-║  [+] Welcome to my Matrix, visitor. 🟢                      ║
-║  [+] Let's build something legendary. 🚀                    ║
-║                                                              ║
-║  └─$ █                                                       ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="380"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:0D0D0D&height=160&section=footer&animation=fadeIn&fontColor=00FF41" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%5B+Thanks+for+visiting+my+profile+%5D+%F0%9F%9F%A2;%5B+Let%27s+build+something+legendary+together+%5D+%F0%9F%9A%80;%5B+Drop+a+%E2%AD%90+if+my+repos+helped+you!+%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=640&lines=Thanks+for+visiting+my+profile+%F0%9F%9F%A2;Drop+a+%E2%AD%90+if+you+like+my+work!;Let%27s+build+something+awesome+together+%F0%9F%9A%80;Always+open+to+new+opportunities+%F0%9F%A4%9D" />
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rishp-3&label=MATRIX+VISITORS&color=00ff41&style=for-the-badge)
+[![followers](https://img.shields.io/github/followers/Rishp-3?label=Followers&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github)](https://github.com/Rishp-3?tab=followers)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/Rishp-3?label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github)
+[![stars](https://img.shields.io/github/stars/Rishp-3?label=Total%20Stars&style=for-the-badge&color=FF6600&labelColor=0D1117&logo=github)](https://github.com/Rishp-3?tab=repositories)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/Rishp-3?label=TOTAL+STARS&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github)
+<img src="https://komarev.com/ghpvc/?username=Rishp-3&label=⚡+MATRIX+VISITS&color=00ff41&style=for-the-badge&abbreviated=true" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001400,100:00FF41&height=160&section=footer&text=See+You+In+The+Matrix+👾&fontSize=24&fontColor=00FF41&animation=fadeIn&fontAlignY=70" />
 
 </div>
